@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tweather</string>
+    <string name="current_temperature">Current temperature</string>
+    <string name="temperature">%1$.2f °C / %2$.2f °F</string>%02d
+    <string name="current_wind">Current wind</string>
+    <string name="std_dev">Standard Deviation</string>
+    <string name="btn_std">Calculate Standard Deviation</string>
+    <string name="wind_speed">%1$.2f mph</string>
+    <string name="empty_results">No results</string>
+    <string name="retry">Retry</string>
+    <string name="network_error">Network Unavailable</string>
+    <string name="api_error">API is not reachable</string>
+
+    <string name="endpoint">http://twitter-code-challenge.s3-website-us-east-1.amazonaws.com/</string>
+</resources>
